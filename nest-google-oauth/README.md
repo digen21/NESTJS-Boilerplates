@@ -1,7 +1,7 @@
-<p style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://nestjs.com/img/logo-small.svg" width="100" alt="Nest Logo" />
   <img src="https://www.svgrepo.com/show/303108/google-icon-logo.svg" width="100" alt="Google logo" />
-</p>
+</div>
 
 
 [circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
